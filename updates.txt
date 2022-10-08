@@ -1,14 +1,33 @@
-Welcome to the latest version of the Beyond Minecraft mod pack version 
-indev 0.1.6a!
-
-We will be making changes as we go in the future but for now here is some 
-noteable changes.
-
-Change-log 10/8/22
+Changes 10/8/22 New Features:
 ----------------------------
-HotFix
+New Origins addon mod: Collection of Singiro
+> Adds 19 new origins!
+  - Arachnae
+  - Daemon
+  - Dwarf
+  - Elf
+  - Fae
+  - Goblin
+  - Gorgon
+  - Knight
+  - Ogre
+  - Paladin
+  - Plague Victim
+  - Siren
+  - Werewolf
+  - Minotaur
+  - Moth
+  - Deer
+  - Demon
+  - Piglin Brute
+  - Slimefolk
+
+Changes 10/8/22 HotFix:
+----------------------------
 - Removed Chicken Chunks, to prevent future chunk corruption issues.
 
+Changes 10/8/22
+----------------------------
 General Changes
 - New Menu Design
 

@@ -1,7 +1,8 @@
 
 &6&nChanges 10/8/22 New Features:&r
 ----------------------------
-■ &cRemoved &bChicken Chunks &fmod due to potential corruption.
+■ &cRemoved &bChicken Chunks &fmod due to potential
+  corruption.
 ■ &aAdded &bFTB Chunks &fmod for claiming and loading
 ■ &aNew Origins addon&f: &bCollection of Singiro&r
  ► Adds &e19&r new origins!
@@ -50,7 +51,7 @@
 
  ► Block -> Pedestal Changes:
   ▪ &cDisabled &bEvertide Amulet &fpedestal use
-  ▪ &cDisabled &nVolcanite Amulet &fpedestal use
+  ▪ &cDisabled &bVolcanite Amulet &fpedestal use
 
  ► Item Cooldown Changes:
   ▪ &cIncreased &bBody Stone&f cooldown from &e0.5&f seconds to 
@@ -67,5 +68,6 @@
     to &e8
   ▪ &bMedium Covalence Dust&f output &clowered&f from 40 to 8
   ▪ &bHigh Covalence Dust&f output &clowered&f from 40 to 8
-  ▪ &bLow Covalence Dust&f all other cobblestone variants 
-    &cremoved&f from recipe, only vanilla cobblestone to craft.
+  ▪ All other cobblestone variants for &bLow Covalence Dust&f 
+    recipe has been &cremoved&f from recipe, only vanilla 
+    cobblestone to craft.

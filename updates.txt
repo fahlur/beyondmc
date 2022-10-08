@@ -1,5 +1,5 @@
 
-Changes 10/8/22 New Features:
+&6Changes 10/8/22 New Features:&f
 ----------------------------
 + Added FTB Chunks mod for claiming and loading
 + New Origins addon mod: Collection of Singiro
@@ -24,12 +24,12 @@ Changes 10/8/22 New Features:
   - Piglin Brute
   - Slimefolk
 
-Changes 10/8/22 HotFix:
+&6Changes 10/8/22 &cHotFix&f:
 ----------------------------
 - Removed Chicken Chunks, to prevent future chunk 
   corruption issues.
 
-Changes 10/8/22
+&6Changes 10/8/22&f
 ----------------------------
 General Changes
 - New Menu Design

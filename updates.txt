@@ -4,9 +4,11 @@ indev 0.1.6a!
 We will be making changes as we go in the future but for now here is some 
 noteable changes.
 
-
 Change-log 10/8/22
 ----------------------------
+HotFix
+- Removed chunk loader mod: Chicken Chunks, to prevent future chunk corruption issues.
+
 General Changes
 - New Menu Design
 

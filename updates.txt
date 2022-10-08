@@ -1,3 +1,5 @@
 This is the indev release of Beyond Minecraft!
 
 This is also some testing text!
+
+Need to test updating?

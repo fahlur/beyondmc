@@ -1,6 +1,5 @@
 
-&6&nChanges 10/8/22 New Features:&r
-----------------------------
+&6&n&lChanges 10/8/22 New Features:&r
 ■ &cRemoved &bChicken Chunks &fmod due to potential
   corruption.
 ■ &aAdded &bFTB Chunks &fmod for claiming and loading

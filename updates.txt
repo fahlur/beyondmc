@@ -2,7 +2,7 @@ Welcome to the latest version of the Beyond Minecraft mod pack version
 indev 0.1.6a!
 
 We will be making changes as we go in the future but for now here is some 
-oteable changes.
+noteable changes.
 
 
 Change-log 10/8/22

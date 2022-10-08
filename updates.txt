@@ -6,17 +6,10 @@
 ■ &aAdded &bFTB Chunks &fmod for claiming and loading
 ■ &aNew Origins addon&f: &bCollection of Singiro&r
  ► Adds &e19&r new origins!
-  ▪ Arachnae     ▪ Ogre
-  ▪ Daemon        ▪ Paladin
-  ▪ Dwarf          ▪ Plague Victim
-  ▪ Elf             ▪ Siren
-  ▪ Fae            ▪ Werewolf
-  ▪ Goblin         ▪ Minotaur
-  ▪ Gorgon        ▪ Moth
-  ▪ Knight         ▪ Deer
-  ▪ Demon         ▪ Slimefolk
-  ▪ Piglin Brute
-
+  ▪ Arachnae, Ogre, Daemon, Paladin, Dwarf, Plague Victimm
+    Elf, Siren, Fae, Werewolf, Goblin, Minotaur, Gorgon,
+    Moth, Knight, Deer, Demon, Slimefolk, Piglin Brute
+    
 ■ General Changes
  ► New Menu Design
 

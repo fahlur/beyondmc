@@ -32,20 +32,20 @@ General Changes
 - New Menu Design
 
 ProjectE Changes
-Removed Recipes and Hidden from JEI:
-- Dark Matter Tools (All Tools)
-- Dark Matter Armor (Full Set)
-- Red Matter Armor (Full Set)
-- Red Matter Tool (All Tools)
-- Gem Armor (Full Set)
-- Destruction catalyst
-- Hyperkinetic Lens
-- Catalytic Lens
-- Watch of Flowing Time
-- Mercurial Eye
-- Ignition Ring
-- Harvest Goddess Band
-- Zero Ring
+> Removed Recipes and Hidden from JEI:
+ - Dark Matter Tools (All Tools)
+ - Dark Matter Armor (Full Set)
+ - Red Matter Armor (Full Set)
+ - Red Matter Tool (All Tools)
+ - Gem Armor (Full Set)
+ - Destruction catalyst
+ - Hyperkinetic Lens
+ - Catalytic Lens
+ - Watch of Flowing Time
+ - Mercurial Eye
+ - Ignition Ring
+ - Harvest Goddess Band
+ - Zero Ring
 
 Hidden Recipes:
 - Arcana Ring (Due to being inactive, no sense in showing in JEI)

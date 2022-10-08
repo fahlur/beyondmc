@@ -1,29 +1,21 @@
 
 &6&n&lChanges 10/8/22 New Features:&r
+
 ■ &cRemoved &bChicken Chunks &fmod due to potential
   corruption.
 ■ &aAdded &bFTB Chunks &fmod for claiming and loading
 ■ &aNew Origins addon&f: &bCollection of Singiro&r
  ► Adds &e19&r new origins!
-  ▪ Arachnae
-  ▪ Daemon
-  ▪ Dwarf
-  ▪ Elf
-  ▪ Fae
-  ▪ Goblin
-  ▪ Gorgon
-  ▪ Knight
-  ▪ Ogre
-  ▪ Paladin
-  ▪ Plague Victim
-  ▪ Siren
-  ▪ Werewolf
-  ▪ Minotaur
-  ▪ Moth
-  ▪ Deer
-  ▪ Demon
+  ▪ Arachnae     ▪ Ogre
+  ▪ Daemon       ▪ Paladin
+  ▪ Dwarf        ▪ Plague Victim
+  ▪ Elf          ▪ Siren
+  ▪ Fae          ▪ Werewolf
+  ▪ Goblin       ▪ Minotaur
+  ▪ Gorgon       ▪ Moth
+  ▪ Knight       ▪ Deer
+  ▪ Demon        ▪ Slimefolk
   ▪ Piglin Brute
-  ▪ Slimefolk
 
 ■ General Changes
  ► New Menu Design
@@ -45,7 +37,7 @@
   ▪ Zero Ring
 
  ► Hidden Recipes:
-  ▪ Arcana Ring (Due to being inactive, no sense in 
+  ▪ &bArcana Ring&f (Due to being inactive, no sense in 
     showing in JEI)
 
  ► Block -> Pedestal Changes:

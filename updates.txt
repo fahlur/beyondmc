@@ -2,7 +2,6 @@
 &6&n&lChanges 10/8/22 New Features 2:&r
 
 ■ Added mod Awesome Dungeons
-■ Added mod Savage Ender Dragon
 ■ Added mod End's Phantasm
 ■ Added mod JEI Enchantment Info
 ■ Added mod Just Enough Resources

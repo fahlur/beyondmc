@@ -1,9 +1,14 @@
 
+&6&n&lChanges 10/9/22 New Features & Changes:&r
 
-&6&n&lChanges 10/9/22 New Features:&r
-
+■ Pack version updated to indev 0.1.7
 ■ Added mod Extra Storage
 ■ Added mod Flux Networks
+■ Added mod Akashic Tome
+■ Added mod Notes
+■ Added mod Mantle
+■ &bJEI: &fHid the bits from chisel and bits
+  from the JEI to reduce clutter and client lag
 
 &6&n&lChanges 10/8/22 New Features 2:&r
 

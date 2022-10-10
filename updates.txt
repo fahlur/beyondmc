@@ -1,5 +1,22 @@
 
-&6&n&lChanges 10/9/22 New Features & Changes:&r
+&6&n&lChanges 10/10/22 New Features & Changes:&r
+
+■ Pack version &6updated &fto &eindev 0.1.8&f
+■ &aAdded &fmod &bFastWorkBench Minus Replacement&f
+■ &aAdded &fmod &bStarlight x Create&f
+■ &aAdded &fmod &bFerriteCore&f
+■ &aAdded &fmod &bPerformant&f
+■ &aAdded &fmod &bConfigured&f
+■ &eProjectE Changes&f
+ ► &cRemoved &bRecipes &fand &bHidden &ffrom JEI:
+  ▪ &cRemoved &bAnti-Matter Relay MK1&f
+  ▪ &cRemoved &bAnti-Matter Relay MK2&f
+  ▪ &cRemoved &bAnti-Matter Relay MK3&f
+■ &eCyclic Changes&f
+ ► &cRemoved &bRecipes &fand &bHidden &ffrom JEI:
+  ▪ &cRemoved &bCorrupted Chorus Fruit
+  
+6&n&lChanges 10/9/22 New Features & Changes:&r
 
 ■ Pack version updated to indev 0.1.7
 ■ Added mod Extra Storage
